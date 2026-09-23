@@ -1,5 +1,5 @@
 (ns briefing.model-test
-  (:require [clojure.test :refer [deftest is]]
+  (:require [kotoba.test :refer [deftest is]]
             [briefing.model :as b]
             [briefing.validate :as v]))
 
